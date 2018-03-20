@@ -1,6 +1,6 @@
 ## :rocket: growth checklist :fire:
 
-My favorite todos - the ones my clients have had the most success with - to help their projects gain traction. Some of these
+My favorite todos - the ones my clients have had the most success with - to help their projects gain traction.
 
 To learn more, read [The Checklist Manifesto](http://amzn.to/2preBrU) :book:
 

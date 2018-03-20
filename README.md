@@ -2,6 +2,8 @@
 
 My favorite todos - the ones my clients have had the most success with - to help their projects gain traction.
 
+### Gene's [Growth Checklist](https://gkobilansky.github.io/growth-checklist/)
+
 The todos and their state are stored in localStorage, so you will not need an account to maintain your progress, as long as you do not clear your browser cache.
 
 To learn more, read [The Checklist Manifesto](http://amzn.to/2preBrU) :book:

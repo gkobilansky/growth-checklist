@@ -167,7 +167,7 @@ class TodoList extends Component {
     return (
       <div>
         <header className="header">
-          <h1>growth todos</h1>
+          <h1>growth checklist</h1>
           <input
             className="new-todo"
             placeholder="What needs to be done"

@@ -321,14 +321,14 @@ html .clear-completed:active {
 
 .info {
   margin: 65px auto 0;
-  color: #bfbfbf;
-  font-size: 10px;
+  color: #afafaf;
+  font-size: 14px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   text-align: center;
 }
 
 .info p {
-  line-height: 1;
+  line-height: 1.5;
 }
 
 .info a {
